@@ -1,0 +1,19 @@
+node.default[:packages] = %w(
+  curl
+  libyaml-dev
+  libxml2
+  libxml2-dev
+  libxslt1-dev
+  openssl
+  libssl-dev
+  bison
+  libreadline6
+  libreadline6-dev
+  zlib1g
+  zlib1g-dev
+  autoconf
+  libc6-dev
+  ncurses-dev
+  automake
+  libtool
+)
